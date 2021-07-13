@@ -5,12 +5,12 @@ With more platforms adopting own monetization models, the dangers of platforms m
 
 [Monetizing Philanthropy](https://community.webmonetization.org/philanthropy/monetizing-philanthropy-on-social-media-1i0i) is an a joint interdisciplinary project from [Maastricht Law & Tech Lab](https://github.com/maastrichtlawtech), [Maastricht University Institute of Data Science](https://github.com/MaastrichtU-IDS), and the [Department of Computer Science](https://github.com/university-of-york) from the University of York. Project funded by [Grant for the Web](https://www.grantfortheweb.org/).
 
-![Influencer extension flow](./docs/screens-influ.png)
+![Influencer extension flow](./png/screens-influ.png)
 
 ## Resources
 ### Monetizing Philanthropy Publications
 - **Content Monetization and Philanthropy: A Literature Survey** (Alexandru Amariei, Thales Bertaglia, Catalina Goanta, Gerasimos Spanakis) 
-  - _Working paper_: 
+  - _Working paper_: https://github.com/maastrichtlawtech/webmon-resources/blob/main/pdf/content-monetization-and-philanthropy-literature-review.pdf
 - **Philanthropy and Blockchain** _(working paper)_
 
 ### Monetizing Philanthropy Repositories
